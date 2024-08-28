@@ -73,7 +73,7 @@ Unlike the ordinary SIFT provided by opencv2, dense SIFT computes the descriptor
 
 ### How to use the code
 
-There are 3 key python codes that need to be run or should be maneuvered in this project. 
+While most of the underlying codes are provided by the DSEC dataset, there are 3 key python codes that need to be run or should be maneuvered in this project. 
 sequence.py, align.py, and dense_sift.py.
 sequence.py and align.py are used to preprocess or represent the events and images from the DSEC dataset as it is comfortable for the user, and the dense_sift.py represents the code used to compute descriptors and compare the euclidean distance between voxel grid event and grayscale image. 
 
