@@ -215,7 +215,7 @@ Euclidean Distance vs. Gamma & Sum of Contour vs. Gamma
 
 ## Future Work and Possible Control Algorithms
 
-As we receive the most optimal gamma that results in the minimum euclidean distance of descriptors from event and image, it is imperative that we build two more things. 
+As we receive the most optimal gamma that results in the minimum euclidean distance of descriptors from event and image, it is imperative that we achieve three more things. 
 
 1. Proving that this metric utilizing event camera performs better than standard automatic exposure algorithm or other papers,
 2. Making the contol algorithm that controls the actual EV (exposure time and gain)
